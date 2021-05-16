@@ -1,0 +1,11 @@
+# VS Code
+.vscode/*
+
+# Python
+__pycache__/*
+
+# Training data
+data/*
+
+# Trained model weights
+trained_models/*
